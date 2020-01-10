@@ -5,3 +5,4 @@ todo
 *.html
 tmp/
 venv/
+.idea
